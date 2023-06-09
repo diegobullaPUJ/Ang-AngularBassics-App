@@ -1,3 +1,12 @@
+# BasesAngularApp
+
+## Ejecutar proyecto localmente
+
+1. Clonar proyecto.
+2. Ejecutar ```npm install``` para descargar las dependencias.
+3. Ejecutar la app ```ng serve -o```.
+
+## Descipción
 
 Aplicación donde abordamos los temas basicos y fundamentales de Angular entre los que se encuentran.
 
